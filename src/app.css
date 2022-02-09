@@ -1,0 +1,14 @@
+/* main */
+@import './styles/_body.css';
+
+/*typography*/
+@import './styles/_typography.css';
+@import './styles/_img.css';
+
+/*components*/
+@import './styles/_button.css';
+@import './styles/_nav.css';
+@import './styles/_packages.css';
+
+
+

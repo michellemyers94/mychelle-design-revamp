@@ -1,0 +1,14 @@
+
+body {
+    background: #110008;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: inline;
+    margin: 0 auto;
+}

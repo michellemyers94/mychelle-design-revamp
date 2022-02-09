@@ -1,0 +1,30 @@
+nav {
+    display: inline;
+
+
+
+
+
+}
+
+nav a:hover {
+    color: #a5243d;
+
+}
+
+nav ul {
+    width: 150%;
+
+
+}
+
+.logo_wrap {
+    display: inline-block;
+    /*float: left;*/
+}
+
+.nav_wrap {
+    display: inline-block;
+    /*float: right;*/
+    /*margin-left: 25%;*/
+}

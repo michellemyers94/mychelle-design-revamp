@@ -1,0 +1,40 @@
+.packages {
+    display: flex;
+    margin: 0 30%;
+
+}
+
+.package_item {
+    border-color: #5f1a2e;
+    border-style: solid;
+    margin: 2% 10%;
+    padding: 2% 2%;
+    border-radius: 15px;
+
+}
+
+.package_filled {
+    background-color: #5f1a2e;
+    color: #110008;
+    border-color: #5f1a2e;
+}
+
+.work_example {
+    display: flex;
+
+
+}
+
+.example {
+    border-color: #5f1a2e;
+    padding: 2%;
+
+}
+h2.example {
+    text-align: center;
+}
+
+.example h2 {
+    text-align: center;
+}
+

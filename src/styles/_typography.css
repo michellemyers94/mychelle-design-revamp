@@ -1,0 +1,57 @@
+body {
+    font-family: como, sans-serif;
+    color: #8d545a;
+}
+
+a {
+    color: #8d545a;
+    font-size: 2em;
+    font-weight: 600;
+
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 6vmin;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+
+    padding: 0 2%;
+
+
+}
+
+article h2 {
+    font-size: 8vmin;
+    font-weight: 500;
+}
+
+article {
+    margin-left: 4%;
+}
+
+figure {
+    text-align: center;
+}
+
+h4.price {
+    font-size: 1.3em;
+    text-align: right;
+}
+
+h3.about {
+    font-size: 2em;
+    font-weight: 400;
+    padding: 2%;
+    line-height: 120%;
+}
